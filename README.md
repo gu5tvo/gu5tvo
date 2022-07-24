@@ -1,9 +1,9 @@
 ## Hello World, Gustavo aqui!
 
 
-Eu sou Gustavo, um desenvolvedor web e programador. Eu programo desde criança e sempre adorei. Estou interessado em tudo, desde robótica até programação robótica.
+Eu sou Gustavo, um desenvolvedor web e programador. Estou interessado em tudo, desde design/front-end até programação crypto, inteligencia artificial, back-end, banco de dados, etc.
 
-Atualmente sou estudante de informática na [nome da escola], onde estudo desenvolvimento web e programação em geral. Quando não estou codificando, você pode me encontrar na academia ou brincando com meu cachorro.
+Atualmente sou estudante de Bacharelado em ciencia da computação no Instituto Federal do Maranhão, onde estudo desenvolvimento web e programação em geral. Quando não estou programando, você pode me encontrar na academia ou brincando com meu gato.
 <div align="center">
   <a href="https://github.com/gu5tvo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gu5tvo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
