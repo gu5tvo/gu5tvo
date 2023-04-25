@@ -1,5 +1,3 @@
-<h1 align="center">Hey, I'm Gustavo</h1>
-<h3 align="center">My name is Gustavo and I am a computer science student from Brazil. I am passionate about software development and I'm currently focusing on learning JavaScript, TypeScript, React, Node, Next.js, and database technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
