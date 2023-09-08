@@ -1,12 +1,35 @@
+# Hi there, I'm Gustavo! 🧑‍💻🇧🇷
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/gu5tvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gu5tvo" height="30" width="40" /></a>
-<a href="https://twitter.com/gu5tvobr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gu5tvobr" height="30" width="40" /></a>
-<a href="https://instagram.com/gustvpassin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustvpassin" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![Studying](https://img.shields.io/badge/Currently%20Studying-Computer%20Science-blue)
+![Institution](https://img.shields.io/badge/Institution-IFMA-orange)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gu5tvo&show_icons=true&locale=en&layout=compact" alt="gu5tvo" /></p>
+## About Me
+
+I'm a passionate computer science student based in Brazil, currently pursuing my degree at IFMA. My journey into the world of programming has been an exciting one, and I'm constantly seeking opportunities to learn and grow.
+
+## Skills
+
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-yellow?logo=linux&logoColor=white)
+
+## My Interests
+
+- Exploring the depths of algorithms and data structures
+- Building web applications that make a difference
+- Passionate about Cybersecurity, Penetration Testing, and Security
+- Interested in Django, Elixir, Crystal, and Ruby on Rails
+
+## Projects
+
+- Founder of **Tech Junior** - A project dedicated to promoting technology education among young talents.
+
+## Let's Connect!
+
+Feel free to reach out and connect with me. I'm always open to interesting discussions, collaborations, or just a friendly chat!
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&logoColor=white)](https://github.com/gu5tvo)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo--passinho)
+[![Email Me](https://img.shields.io/badge/Email-Contact%20Me-red?logo=email&logoColor=white)](mailto:gustavo.passinho@acad.ifma.edu.br)
+
+Thanks for visiting my GitHub profile! 
